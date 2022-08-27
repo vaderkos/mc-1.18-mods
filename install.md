@@ -3,7 +3,7 @@
 2. Install launcher
 3. Run launcher,
 4. Create profile
-5. Install Release 1.8.2
+5. Install Release 1.18.2
 6. After installing close launcher
 7. Install forge client
 8. Open laucnher settings and add jdk-17, then select it
